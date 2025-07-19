@@ -1,11 +1,11 @@
-# 🏠 House Price Prediction Model
+# 🏠 House Price Prediction Model (Beginner)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
-A beginner-friendly machine learning project that predicts house prices based on various features using a Decision Tree Regressor.
+A beginner-level regression project that predicts house prices using machine learning techniques. Built as part of a course to understand basic model training and evaluation using MAE.
 
 ---
 
