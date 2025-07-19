@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction Model
+# 🏠 House Price Prediction Model (Beginner)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
