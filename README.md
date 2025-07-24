@@ -59,14 +59,17 @@ pip install pandas scikit-learn
 house-price-prediction/
 ├── data/
 │   └── train.csv       # Ames Housing dataset (publicly available)
-├── house_price_model.ipynb
+├── Notebooks/
+│   └──  house_price_model.ipynb
 └── README.md
 ```
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Author
 
-Feel free to reach out at: [priyanshu3303@gmail.com](mailto:priyanshu3303@gmail.com)
+**Priyanshu Singh**  
+📧 priyanshusingh442000@gmail.com  
+🔗 [GitHub: PriyanshuSingh44](https://github.com/PriyanshuSingh44)
 
 ---
